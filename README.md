@@ -2,5 +2,4 @@
 Implementation of different Python Library ELI5 for explanations of Predictions  
 
 # Python Packeges Used: 
-ELI5
-Xgboost
+ELI5 and Xgboost
